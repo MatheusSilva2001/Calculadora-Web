@@ -27,7 +27,7 @@ Este é um projeto de uma calculadora simples desenvolvida com HTML, CSS e JavaS
 
 ## Captura de Tela
 
-![home-layout](./images/calculadora.jpg)
+![home-layout](./images/calculadora.png)
 
 ## Melhorias Futuras
 
